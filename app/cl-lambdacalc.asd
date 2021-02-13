@@ -2,7 +2,7 @@
 
 (asdf:defsystem #:cl-lambdacalc
   :author "S M McLeod"
-  :license  "TBD"
+  :license  "MIT"
   :version "0.0.1"
   :depends-on ("cl-ppcre") ;; BSD License
   :serial t
