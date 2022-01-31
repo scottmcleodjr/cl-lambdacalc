@@ -1,6 +1,7 @@
 ;;;; cl-lambdacalc.asd
 
 (asdf:defsystem #:cl-lambdacalc
+  :description "Define Lisp functions using lambda calculus syntax"
   :author "S M McLeod"
   :license  "MIT"
   :version "0.0.1"

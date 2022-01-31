@@ -1,6 +1,7 @@
 ;;;; cl-lambdacalc.asd
 
 (asdf:defsystem #:cl-lambdacalc-test
+  :description "Test cases for the cl-lambdacalc package"
   :author "S M McLeod"
   :license  "MIT"
   :version "0.0.1"
