@@ -4,6 +4,14 @@ This is a simple library that allows you to define lisp functions using lambda c
 
 The project includes a number of tests in the cl-lambdacalc-test package.  These may be run with the included script.
 
+## Installation
+
+You can install the library with Quicklisp.
+
+```
+(ql:quickload "cl-lambdacalc")
+```
+
 ## Example
 
 ```
