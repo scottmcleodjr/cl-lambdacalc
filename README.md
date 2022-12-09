@@ -8,13 +8,13 @@ The project includes a number of tests in the cl-lambdacalc-test package.  These
 
 You can install the library with Quicklisp.
 
-```
+```lisp
 (ql:quickload "cl-lambdacalc")
 ```
 
 ## Example
 
-```
+```lisp
 > (define-lc-func foo "Ax.Ay.xy")
 #<FUNCTION (LAMBDA (X)) {52DF54DB}>
 
